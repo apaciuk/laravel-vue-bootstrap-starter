@@ -5,31 +5,31 @@
 				<div class="col-xs-12 col-sm-4 col-md-4">
 					<h5>Quick links</h5>
 					<ul class="list-unstyled quick-links">
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Home</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>About</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>FAQ</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Get Started</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Videos</a></li>
+						<li><a href="javascript:void();">Home</a></li>
+						<li><a href="javascript:void();">About</a></li>
+						<li><a href="javascript:void();">FAQ</a></li>
+						<li><a href="javascript:void();">Get Started</a></li>
+						<li><a href="javascript:void();">Videos</a></li>
 					</ul>
 				</div>
 				<div class="col-xs-12 col-sm-4 col-md-4">
 					<h5>Quick links</h5>
 					<ul class="list-unstyled quick-links">
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Home</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>About</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>FAQ</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Get Started</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Videos</a></li>
+						<li><a href="javascript:void();">Home</a></li>
+						<li><a href="javascript:void();">About</a></li>
+						<li><a href="javascript:void();">FAQ</a></li>
+						<li><a href="javascript:void();">Get Started</a></li>
+						<li><a href="javascript:void();">Videos</a></li>
 					</ul>
 				</div>
 				<div class="col-xs-12 col-sm-4 col-md-4">
 					<h5>Quick links</h5>
 					<ul class="list-unstyled quick-links">
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Home</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>About</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>FAQ</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Get Started</a></li>
-						<li><a href="https://wwwe.sunlimetech.com" title="Design and developed by"><i class="fa fa-angle-double-right"></i>Imprint</a></li>
+						<li><a href="javascript:void();">Home</a></li>
+						<li><a href="javascript:void();">About</a></li>
+						<li><a href="javascript:void();">FAQ</a></li>
+						<li><a href="javascript:void();">Get Started</a></li>
+						<li><a href="https://www.xhostcom.com" title="Design and developed by">Xhostcom</a></li>
 					</ul>
 				</div>
 			</div>
@@ -50,7 +50,7 @@
 			<div class="row">
 				<div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-2 text-center text-white">
 					<p><u><a href="https://www.xhostcom.com/">Xhostcom</a></u> build evolutionary websites</p>
-					<p class="h6">&copy 2019.<a class="text-green ml-2" href="https://www.xhostcom.com" target="_blank">Xhostcom</a></p>
+					<p class="h6">&copy 2020<a class="text-green ml-2" href="https://www.xhostcom.com" target="_blank">Xhostcom</a></p>
 				</div>
 				</hr>
 			</div>
@@ -60,5 +60,8 @@
 <style scoped>
 .footer {
 background-color: #343A40;
+}
+.footer h5 {
+color: #f8f8f8;
 }
 </style>
