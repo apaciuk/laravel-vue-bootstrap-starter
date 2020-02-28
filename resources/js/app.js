@@ -5,6 +5,7 @@ import BootstrapVue from 'bootstrap-vue';
 //Local imports
 import './jquery.slim.min.js';
 import './bootstrap.bundle.min.js';
+import '../css/font-awesome.css';
 import '../css/bootstrap.css';
 
 new Vue({
