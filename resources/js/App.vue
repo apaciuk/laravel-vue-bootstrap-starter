@@ -1,5 +1,5 @@
 <template>
- <main>
+<main>
 <Header />
 <Index />
 <Footer />
