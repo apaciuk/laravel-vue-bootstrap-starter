@@ -1,7 +1,9 @@
 <template>
 <main>
 <Header />
+<div id="wrapper">
 <Index />
+</div>
 <Footer />
 </main>
 </template>
