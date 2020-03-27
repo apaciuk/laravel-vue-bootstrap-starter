@@ -12,6 +12,12 @@ Paul Anthony McGo0wan
 
 Extra pages.
 
+## FAQ
+
+Q: Is this normal?
+
+A: Yes this is perfectly normal!
+
 ## Install
 
 $ composer install
